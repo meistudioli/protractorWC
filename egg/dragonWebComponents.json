@@ -1,0 +1,67 @@
+[
+	{
+		"feature": "features/auctionFolder.feature",
+		"tags": "@folder003",
+		"note": "folder 是否存在"
+	},
+	{
+		"feature": "features/auctionFolder.feature",
+		"tags": "@folder004",
+		"note": "folder 是否有正常輪播"
+	},
+	{
+		"feature": "features/auctionFolder.feature",
+		"tags": "@folder005",
+		"note": "folder redirect 功能是否正常"
+	},
+	{
+		"feature": "features/auctionFolder.feature",
+		"tags": "@folder006",
+		"note": "folder 關閉功能是否正常"
+	},
+	{
+		"feature": "features/auctionCocoon.feature",
+		"tags": "@cocoon003",
+		"note": "cocoon 是否存在"
+	},	
+	{
+		"feature": "features/auctionCocoon.feature",
+		"tags": "@cocoon004",
+		"note": "cocoon autoplay 是否正常"
+	},
+	{
+		"feature": "features/auctionCocoon.feature",
+		"tags": "@cocoon005",
+		"note": "cocoon play / pause 是否正常"
+	},
+	{
+		"feature": "features/auctionCocoon.feature",
+		"tags": "@cocoon006",
+		"note": "cocoon 廣告是否正常顯示"
+	},
+	{
+		"feature": "features/auctionCocoon.feature",
+		"tags": "@cocoon007",
+		"note": "cocoon redirect 功能是否正常"
+	},
+	{
+		"feature": "features/auctionCocoonImg.feature",
+		"tags": "@cocoonImg003",
+		"note": "cocoonImg 是否存在"
+	},
+	{
+		"feature": "features/auctionCocoonImg.feature",
+		"tags": "@cocoonImg004",
+		"note": "cocoonImg autoplay 是否正確"
+	},
+	{
+		"feature": "features/auctionCocoonImg.feature",
+		"tags": "@cocoonImg005",
+		"note": "cocoonImg 廣告是否正常顯示"
+	},
+	{
+		"feature": "features/auctionCocoonImg.feature",
+		"tags": "@cocoonImg006",
+		"note": "cocoonImg redirect 功能是否正常"
+	}
+]

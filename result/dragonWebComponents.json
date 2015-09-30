@@ -1,0 +1,236 @@
+[
+  {
+    "description": "folder 是否存在",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4185286068
+  },
+  {
+    "description": "folder 是否有正常輪播",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 12056526520
+  },
+  {
+    "description": "folder redirect 功能是否正常",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3169439421
+  },
+  {
+    "description": "folder 關閉功能是否正常",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 6966291323
+  },
+  {
+    "description": "cocoon 是否存在",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1622678553
+  },
+  {
+    "description": "cocoon autoplay 是否正常",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3697377460
+  },
+  {
+    "description": "cocoon play / pause 是否正常",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 6338683849
+  },
+  {
+    "description": "cocoon 廣告是否正常顯示",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3540530000
+  },
+  {
+    "description": "cocoon redirect 功能是否正常",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 4412323928
+  },
+  {
+    "description": "cocoonImg 是否存在",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 1874836283
+  },
+  {
+    "description": "cocoonImg autoplay 是否正確",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3360741192
+  },
+  {
+    "description": "cocoonImg 廣告是否正常顯示",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2537808619
+  },
+  {
+    "description": "cocoonImg redirect 功能是否正常",
+    "assertions": [
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      },
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3379358766
+  }
+]

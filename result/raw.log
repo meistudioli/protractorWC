@@ -1,0 +1,7 @@
+Using the selenium server at http://localhost:4444/wd/hub
+[launcher] Running 1 instances of WebDriver
+13 scenarios (13 passed)
+39 steps (39 passed)
+[launcher] 0 instance(s) of WebDriver still running
+[launcher] chrome #1 passed
+
